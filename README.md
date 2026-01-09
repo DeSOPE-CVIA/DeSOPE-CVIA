@@ -1,16 +1,24 @@
-## Hi there 👋
+# Exploring 6D Object Pose Estimation with Deformation
 
-<!--
-**DeSOPE-CVIA/DeSOPE-CVIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the repository that contains source code for the [DeSOPE website](https://desope-cvia.github.io/DeSOPE-CVIA/).
 
-Here are some ideas to get you started:
+<!-- If you find DeSOPE useful for your work please cite:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+@inproceedings{wang2025scflow2,
+      title     = {SCFlow2: Plug-and-Play Object Pose Refiner with Shape-Constraint Scene Flow},
+      author    = {Wang, Qingyuan and Song, Rui and Li, Jiaojiao and Cheng, Kerui and Ferstl, David and Hu, Yinlin},
+      booktitle = {CVPR},
+      year      = {2025},
+    }
+  
+@inproceedings{yang2023scflow,
+      title     = {Shape-Constraint Flow for 6D Object Pose Estimation},
+      author    = {Hai, Yang and Song, Rui and Li, Jiaojiao and Hu, Yinlin},
+      booktitle = {CVPR},
+      year      = {2023}
+    } -->
+```
+
+# Website License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
